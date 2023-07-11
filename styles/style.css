@@ -195,14 +195,13 @@
 
 }
 
-.sec5{
+.sec5 {
     background-image: url('/asset/sec-bg.png');
-    background-repeat: no-repeat;
-    background-size: cover;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    text-align: center;
     width: 1440px;
     height: 449px;
     border-radius: 8px;
